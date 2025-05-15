@@ -1,3 +1,3 @@
 **Bienvenidos al Resumen que creé por aburrimiento y para ayudar.**
 
-solo pueden leer de momento, pero la terminal con ghci que les compartí debería de funcionar, cuando aprenda a usar mejor esto les creo un archivo de testeo par uso publico
+El resumen en cueation es el Full_Practicos.hs, y abarca solo hasta el 2 practico de la Materia, ando trabajando en los otros...
